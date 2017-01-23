@@ -1,16 +1,16 @@
 ﻿{
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "phoneFormatted": "(571) 203-0082",
-        "phone": "5712030082",
-        "address": "3220 Pointe Pkwy NW #500",
-        "city": "Norcross",
-        "country": "United States",
-        "crossStreet": "btw Explorer & Library",
-        "postalCode": 30092,
-        "state": "GA"
+       "type": "Feature",
+  "properties": {
+    "phoneFormatted": "(678) 948-9400",
+    "phone": 6789489400,
+    "address": "3220 Pointe Pkwy NW #500",
+    "city": "Norcross",
+    "country": "United States",
+    "crossStreet": "",
+    "postalCode": 30092,
+    "state": "GA"
       },
       "geometry": {
         "coordinates": [
