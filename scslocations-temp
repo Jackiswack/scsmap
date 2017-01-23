@@ -1,0 +1,21 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "phoneFormatted": "(571) 203-0082",
+        "phone": "5712030082",
+        "address": "3220 Pointe Pkwy NW #500",
+        "city": "Norcross",
+        "country": "United States",
+        "crossStreet": "Peachtree Industrial & Pointe Pkwy",
+        "postalCode": "30092",
+        "state": "GA",
+      },
+      "geometry": {
+        "coordinates": [
+          -84.230393,
+          33.951266
+        ],
+     
+}
