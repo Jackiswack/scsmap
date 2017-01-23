@@ -1,5 +1,6 @@
 {
-  "features": [
+  "type": "FeatureCollection",
+ "features": [
     {
       "type": "Feature",
       "properties": {
@@ -11,11 +12,14 @@
         "crossStreet": "Peachtree Industrial & Pointe Pkwy",
         "postalCode": "30092",
         "state": "GA",
+      }
       },
+      {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           -84.230393,
           33.951266
-        ],
+        ]
      
-}
+},
