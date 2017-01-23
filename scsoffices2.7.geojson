@@ -1,0 +1,42 @@
+      {
+      	"type": "FeatureCollection",
+      	"features": [{
+      		"type": "Feature",
+      		"geometry": {
+      			"type": "Point",
+      			"coordinates": [-84.230393,
+      				33.951266
+      			]
+      		},
+      		"properties": {
+      			"phoneFormatted": "+1 678-948-9400",
+      			"phone": "+16789489400",
+      			"address": "3220 Pointe Pkwy NW #500",
+      			"city": "Norcross",
+      			"country": "United States",
+      			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
+      			"postalCode": "30092",
+      			"state": "GA"
+      		}
+      	}, {
+      		"type": "Feature",
+      		"geometry": {
+      			"type": "Point",
+      			"coordinates": [
+      				40.71278, -74.00594
+      			]
+      		},
+      		"properties": {
+      			"phoneFormatted": "555-555-5555",
+      			"phone": "5555555555",
+      			"address": "767 5th Ave, New York, NY 10153",
+      			"city": "New York",
+      			"country": "United States",
+      			"crossStreet": "5th & Central",
+      			"postalCode": "10036",
+      			"state": "NY"
+      		}
+      	}, {
+
+      	}]
+      }
