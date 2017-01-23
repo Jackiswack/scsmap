@@ -1,0 +1,183 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Norcross, GA": "3220 Pointe Pkwy, Peachtree Corners, Georgia 30092, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.229477,
+          33.951072
+        ],
+        "type": "Point"
+      },
+      "id": "address.12525105557814730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Atlanta, GA": "Atlanta, GA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.3902,
+          33.7491
+        ],
+        "type": "Point"
+      },
+      "id": "place.10021883938173260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q8652",
+        "place_name": "Miami, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1937,
+          25.7743
+        ],
+        "type": "Point"
+      },
+      "id": "place.10154304590122320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16568",
+        "place_name": "Jacksonville, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.6557,
+          30.3322
+        ],
+        "type": "Point"
+      },
+      "id": "place.11480682561804790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q186702",
+        "place_name": "Chattanooga, Tennessee, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.3097,
+          35.0456
+        ],
+        "type": "Point"
+      },
+      "id": "place.11830071610450480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q16563",
+        "place_name": "Memphis, Tennessee, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.0516,
+          35.149
+        ],
+        "type": "Point"
+      },
+      "id": "place.11840299429299330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q501796",
+        "place_name": "Roanoke, Virginia, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.9414,
+          37.271
+        ],
+        "type": "Point"
+      },
+      "id": "place.12173085178597660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q23197",
+        "place_name": "Nashville, Tennessee, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.7744,
+          36.1622
+        ],
+        "type": "Point"
+      },
+      "id": "place.19100997221462680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q49255",
+        "place_name": "Tampa, Florida, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.4584,
+          27.9478
+        ],
+        "type": "Point"
+      },
+      "id": "place.1985001777147560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q60",
+        "place_name": "New York, New York, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9808,
+          40.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.3677094975964500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q219656",
+        "place_name": "Macon, Georgia, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.6324,
+          32.8407
+        ],
+        "type": "Point"
+      },
+      "id": "place.6001600873403600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q43421",
+        "place_name": "Richmond, Virginia, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.4343,
+          37.5385
+        ],
+        "type": "Point"
+      },
+      "id": "place.9772598097867690"
+    }
+  ],
+  "type": "FeatureCollection"
+}
