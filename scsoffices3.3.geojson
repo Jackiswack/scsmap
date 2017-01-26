@@ -19,6 +19,14 @@
       			"state": "GA"
       		}
       	}, {
+      		"geometry": {
+      			"coordinates": [-84.3908064877737,
+      				33.74877095467596
+      			],
+      			"type": "Point"
+      		},
+      		"type": "Feature",
+      		"properties": {}
 
       	}]
       }
