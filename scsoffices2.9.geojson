@@ -18,24 +18,7 @@
       			"postalCode": "30092",
       			"state": "GA"
       		}
-      	}, {
-      		"type": "Feature",
-      		"geometry": {
-      			"type": "Point",
-      			"coordinates": [-74.00594, 40.71278
-      			]
-      		},
-      		"properties": {
-      			"phoneFormatted": "555-555-5555",
-      			"phone": "5555555555",
-      			"address": "767 5th Ave, New York, NY 10153",
-      			"city": "New York, NY",
-      			"country": "United States",
-      			"crossStreet": "5th & Central",
-      			"postalCode": "10036",
-      			"state": "NY"
-      		}
-      	}, {
+      	},  {
 
       	}]
       }
