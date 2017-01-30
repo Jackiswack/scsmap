@@ -1,0 +1,56 @@
+  {
+  	"type": "FeatureCollection",
+  	"features": [{
+  		"type": "Feature",
+  		"geometry": {
+  			"type": "Point",
+  			"coordinates": [-89.84886, 35.10324]
+  		},
+  		"properties": {
+  			"phoneFormatted": "+1 678-948-9400",
+  			"phone": "+678-948-9400",
+  			"address": "1661 International Dr",
+  			"city": "Memphis, TN",
+  			"country": "United States",
+  			"crossStreet": "",
+  			"postalCode": "38120",
+  			"state": "1"
+  		}
+
+  	}, {
+  		"type": "Feature",
+  		"geometry": {
+  			"type": "Point",
+  			"coordinates": [-86.78012,
+  				36.16373,
+  				0
+  			]
+  		},
+  		"properties": {
+  			"phoneFormatted": "+1 678-948-9400",
+  			"phone": "+16789489400",
+  			"address": "Fifth Third Center, 424 Church St.",
+  			"city": "Nashville, TN",
+  			"country": "United States",
+  			"crossStreet": "",
+  			"postalCode": "37219",
+  			"state": "2"
+  		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	}]
+  }
