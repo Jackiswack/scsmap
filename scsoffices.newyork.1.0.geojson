@@ -1,0 +1,56 @@
+  {
+  	"type": "FeatureCollection",
+  	"features": [{
+  		"type": "Feature",
+  		"geometry": {
+  			"type": "Point",
+  			"coordinates": [ -74.00594, 40.71278]
+  		},
+  		"properties": {
+  			"phoneFormatted": "+1 678-948-9400",
+  			"phone": "+678-948-9400",
+  			"address": "",
+  			"city": "New York, NY",
+  			"country": "United States",
+  			"crossStreet": "",
+  			"postalCode": "",
+  			"state": "1"
+  		}
+
+  	}, {
+  		"type": "Feature",
+  		"geometry": {
+  			"type": "Point",
+  			"coordinates": [-73.79485,
+  				41.12201,
+  				0
+  			]
+  		},
+  		"properties": {
+  			"phoneFormatted": "+1 678-948-9400",
+  			"phone": "+16789489400",
+  			"address": "",
+  			"city": "Westchester, NY",
+  			"country": "United States",
+  			"crossStreet": "",
+  			"postalCode": "",
+  			"state": "2"
+  		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	}]
+  }
