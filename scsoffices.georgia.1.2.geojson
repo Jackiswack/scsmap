@@ -44,19 +44,19 @@
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
-   			"coordinates": [-84.09131389999999,
-   				33.9834818,
+   			"coordinates": [-84.56708,
+   				34.03992,
    				0
    			]
    		},
    		"properties": {
    			"phoneFormatted": "+1 678-948-9400",
    			"phone": "+16789489400",
-   			"address": "2180 Satellite Blvd #400",
-   			"city": "Duluth, GA",
+   			"address": "125 Townpark Dr.",
+   			"city": "Kennesaw, GA",
    			"country": "United States",
    			"crossStreet": "",
-   			"postalCode": "30097",
+   			"postalCode": "30144",
    			"state": "3"
    		}
 
@@ -80,7 +80,7 @@
    			"state": "4"
    		}
 
-   	},  {
+   	}, {
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
@@ -100,12 +100,70 @@
    			"state": "5"
    		}
 
+   	}, {
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-84.04472,
+   				34.35602
+   			]
+
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "143 Power Center Dr. #120",
+   			"city": "Dawsonville, GA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "30534",
+   			"state": "5"
+
+   		}
+
+   	}, {
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-84.23042,
+   				33.95149
+   			]
+
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "3220 Pointe Pkwy NW #500",
+   			"city": "Norcross, GA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "30092",
+   			"state": "5"
+
+   		}
+
+   	}, {
+
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-84.17695,
+   				34.15416
+   			]
+
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "410 Peachtree Pkwy",
+   			"city": "Cumming, GA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "30041",
+   			"state": "5"
 
 
-
-
-
-
+   		}
 
 
 
