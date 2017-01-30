@@ -18,8 +18,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -30,7 +30,7 @@
    			]
    		},
    		"properties": {
-   		"phoneFormatted": "+1 678-948-9400",
+   			"phoneFormatted": "+1 678-948-9400",
    			"phone": "+16789489400",
    			"address": "3220 Pointe Pkwy NW #500",
    			"city": "Norcross, GA",
@@ -38,8 +38,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -58,8 +58,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -78,8 +78,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -98,8 +98,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -118,8 +118,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -138,8 +138,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -158,8 +158,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -178,8 +178,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -198,8 +198,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -218,8 +218,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -238,8 +238,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
@@ -258,8 +258,8 @@
    			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
    			"postalCode": "30092",
    			"state": "GA"
-   			}
    		}
+
    	}, {
    		"type": "Feature",
    		"geometry": {
