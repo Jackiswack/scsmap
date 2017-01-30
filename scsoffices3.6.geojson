@@ -232,27 +232,34 @@
    			"styleMapHash": {
    				"normal": "#icon-1899-0288D1-nodesc-normal",
    				"highlight": "#icon-1899-0288D1-nodesc-highlight"
-   			},
-
-
-   			"type": "Feature",
-   			"geometry": {
-   				"type": "Point",
-   				"coordinates": [-84.230393,
-   					33.951266
-   				]
-   			},
-   			"properties": {
-   				"phoneFormatted": "+1 678-948-9400",
-   				"phone": "+16789489400",
-   				"address": "3220 Pointe Pkwy NW #500",
-   				"city": "Norcross, GA",
-   				"country": "United States",
-   				"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
-   				"postalCode": "30092",
-   				"state": "GA"
    			}
    		}
+   	}, {
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-84.230393,
+   				33.951266
+   			]
+
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "3220 Pointe Pkwy NW #500",
+   			"city": "Norcross, GA",
+   			"country": "United States",
+   			"crossStreet": "at Pechtree Industrial Blvd. & Pointe Pkwy NW",
+   			"postalCode": "30092",
+   			"state": "GA"
+   		}
+
+
+
+
+
+
+
 
 
 
