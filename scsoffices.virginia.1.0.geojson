@@ -1,0 +1,75 @@
+   {
+   	"type": "FeatureCollection",
+   	"features": [{
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-77.0715,
+   				38.89388,
+   				0
+   			]
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+678-948-9400",
+   			"address": "1655 N Fort Myer Dr.",
+   			"city": "Arlington, VA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "22209",
+   			"state": "1"
+   		}
+
+   	}, {
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [76.28774,
+   				36.84321,
+   				0
+   			]
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "999 Waterside Dr.",
+   			"city": "Norfolk, VA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "23510",
+   			"state": "2"
+   		}
+
+   	}, {
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-77.51206,
+   				37.60801,
+   				0
+   			]
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+16789489400",
+   			"address": "6802 Paragon Pl #410",
+   			"city": "Richmond, GA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "23230",
+   			"state": "3"
+
+
+   		}
+
+
+
+
+
+
+
+
+
+
+   	}]
+   }
