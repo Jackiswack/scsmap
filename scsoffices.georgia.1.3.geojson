@@ -121,28 +121,7 @@
 
    		}
 
-   	}, {
-   		"type": "Feature",
-   		"geometry": {
-   			"type": "Point",
-   			"coordinates": [-84.23042,
-   				33.95149
-   			]
-
-   		},
-   		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "3220 Pointe Pkwy NW #500",
-   			"city": "Norcross, GA",
-   			"country": "United States",
-   			"crossStreet": "",
-   			"postalCode": "30092",
-   			"state": "5"
-
-   		}
-
-   	}, {
+   	},  {
 
    		"type": "Feature",
    		"geometry": {
