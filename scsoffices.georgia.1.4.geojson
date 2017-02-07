@@ -64,19 +64,19 @@
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
-   			"coordinates": [-84.30134249999998,
-   				34.0474205,
+   			"coordinates": [-84.2972,
+   				33.77516,
    				0
    			]
    		},
    		"properties": {
    			"phoneFormatted": "+1 678-948-9400",
    			"phone": "+16789489400",
-   			"address": "555 North Point Center E",
-   			"city": "Alpharetta, GA",
+   			"address": "1 West Ct Square",
+   			"city": "Decatur, GA",
    			"country": "United States",
    			"crossStreet": "",
-   			"postalCode": "30022",
+   			"postalCode": "30030",
    			"state": "4"
    		}
 
@@ -104,19 +104,19 @@
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
-   			"coordinates": [-84.04472,
-   				34.35602
+   			"coordinates": [-84.00512,
+   				33.89752
    			]
 
    		},
    		"properties": {
    			"phoneFormatted": "+1 678-948-9400",
    			"phone": "+16789489400",
-   			"address": "143 Power Center Dr. #120",
-   			"city": "Dawsonville, GA",
+   			"address": "1350 Scenic Hwy N",
+   			"city": "Snellville, GA",
    			"country": "United States",
    			"crossStreet": "",
-   			"postalCode": "30534",
+   			"postalCode": "30078",
    			"state": "5"
 
    		}
