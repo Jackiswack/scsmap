@@ -44,19 +44,19 @@
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
-   			"coordinates": [-84.56708,
-   				34.03992,
+   			"coordinates": [-84.46672,
+   				33.8652,
    				0
    			]
    		},
    		"properties": {
    			"phoneFormatted": "+1 678-948-9400",
    			"phone": "+16789489400",
-   			"address": "125 Townpark Dr.",
-   			"city": "Kennesaw, GA",
+   			"address": "2727 Paces Ferry Rd.",
+   			"city": "Atlanta, GA",
    			"country": "United States",
    			"crossStreet": "",
-   			"postalCode": "30144",
+   			"postalCode": "30339",
    			"state": "3"
    		}
 
