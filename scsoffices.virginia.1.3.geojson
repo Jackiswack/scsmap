@@ -1,0 +1,29 @@
+   {
+   	"type": "FeatureCollection",
+   	"features": [{
+   		"type": "Feature",
+   		"geometry": {
+   			"type": "Point",
+   			"coordinates": [-77.0715,
+   				38.89388,
+   				0
+   			]
+   		},
+   		"properties": {
+   			"phoneFormatted": "+1 678-948-9400",
+   			"phone": "+678-948-9400",
+   			"address": "1655 N Fort Myer Dr.",
+   			"city": "Arlington, VA",
+   			"country": "United States",
+   			"crossStreet": "",
+   			"postalCode": "22209",
+   			"state": "1"
+
+   		}
+
+
+
+
+
+   	}]
+   }
