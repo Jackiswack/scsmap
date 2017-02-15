@@ -1,26 +1,6 @@
    {
    	"type": "FeatureCollection",
-   	"features": [{
-   		"type": "Feature",
-   		"geometry": {
-   			"type": "Point",
-   			"coordinates": [-84.36629729999999,
-   				33.8520827,
-   				0
-   			]
-   		},
-   		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+678-948-9400",
-   			"address": "3500 Lenox Rd NE #1500",
-   			"city": "Atlanta, GA",
-   			"country": "United States",
-   			"crossStreet": "",
-   			"postalCode": "30326",
-   			"state": "1"
-   		}
-
-   	}, {
+   	"features": [ {
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
