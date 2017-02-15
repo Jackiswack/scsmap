@@ -100,27 +100,6 @@
    			"state": "5"
    		}
 
-   	}, {
-   		"type": "Feature",
-   		"geometry": {
-   			"type": "Point",
-   			"coordinates": [-84.00512,
-   				33.89752
-   			]
-
-   		},
-   		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "1350 Scenic Hwy N",
-   			"city": "Snellville, GA",
-   			"country": "United States",
-   			"crossStreet": "",
-   			"postalCode": "30078",
-   			"state": "5"
-
-   		}
-
    	},  {
 
    		"type": "Feature",
