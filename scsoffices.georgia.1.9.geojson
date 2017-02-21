@@ -10,14 +10,14 @@
    			]
    		},
    		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "260 Peachtree St NW #2200",
+   			"phoneFormatted": "(770) 268-3030",
+   			"phone": "+17702683030",
+   			"address": "1201 Peachtree Street, 400 Colony Square, Suite 200",
    			"city": "Atlanta, GA",
    			"country": "United States",
    			"crossStreet": "",
-   			"postalCode": "30303",
-   			"state": "2"
+   			"postalCode": "30361",
+   			"state": "GA"
    		}
 
    	}, {
@@ -30,14 +30,14 @@
    			]
    		},
    		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "2727 Paces Ferry Rd.",
+   			"phoneFormatted": "(404) 389-4424",
+   			"phone": "+14043894424",
+   			"address": "3350 Riverwood Parkway, Suite 1900",
    			"city": "Atlanta, GA",
    			"country": "United States",
    			"crossStreet": "",
    			"postalCode": "30339",
-   			"state": "3"
+   			"state": "GA"
    		}
 
    	}, {
@@ -50,14 +50,14 @@
    			]
    		},
    		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "1 West Ct Square",
+   			"phoneFormatted": "(678) 201-0095",
+   			"phone": "+16782010095",
+   			"address": "160 Clairemont Ave, Suite 200",
    			"city": "Decatur, GA",
    			"country": "United States",
    			"crossStreet": "",
    			"postalCode": "30030",
-   			"state": "4"
+   			"state": "GA"
    		}
 
    	}, {
@@ -70,7 +70,7 @@
 
    		},
    		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
+   			"phoneFormatted": "(678) 948-9400",
    			"phone": "+16789489400",
    			"address": "3220 Pointe Pkwy NW #500",
    			"city": "Norcross, GA",
