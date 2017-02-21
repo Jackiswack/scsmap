@@ -7,13 +7,13 @@
   				"coordinates": [-82.52479, 27.96065]
   			},
   			"properties": {
-  				"phoneFormatted": "+1 678-948-9400",
-  				"phone": "+678-948-9400",
-  				"address": "2202 N Westshore Blvd #200",
+  				"phoneFormatted": "(813) 856-5001",
+  				"phone": "+18138565001",
+  				"address": "7320 East Fletcher Ave",
   				"city": "Tampa, FL",
   				"country": "United States",
   				"crossStreet": "",
-  				"postalCode": "33607",
+  				"postalCode": "33637",
   				"state": "1"
   			}
 
@@ -27,13 +27,13 @@
   				]
   			},
   			"properties": {
-  				"phoneFormatted": "+1 678-948-9400",
-  				"phone": "+16789489400",
-  				"address": "618 E South St #500",
+  				"phoneFormatted": "(407) 857-9458",
+  				"phone": "+14078579458",
+  				"address": "1802 Alafaya Trail",
   				"city": "Orlando, FL",
   				"country": "United States",
   				"crossStreet": "",
-  				"postalCode": "32801",
+  				"postalCode": "32826",
   				"state": "2"
   			}
 
@@ -47,9 +47,9 @@
   				]
   			},
   			"properties": {
-  				"phoneFormatted": "+1 678-948-9400",
-  				"phone": "+16789489400",
-  				"address": "2054 Vista Pkwy #400",
+  				"phoneFormatted": "(561) 412-1825",
+  				"phone": "+15614121825",
+  				"address": "2054 Vista Parkway",
   				"city": "West Palm Beach, FL",
   				"country": "United States",
   				"crossStreet": "",
@@ -67,9 +67,9 @@
   				]
   			},
   			"properties": {
-  				"phoneFormatted": "+1 678-948-9400",
-  				"phone": "+16789489400",
-  				"address": "841 Prudential Dr.",
+  				"phoneFormatted": "(904) 770-5005",
+  				"phone": "+19047705005",
+  				"address": "841 Prudential Dr., 12th Floor",
   				"city": "Jacksonville, FL",
   				"country": "United States",
   				"crossStreet": "",
