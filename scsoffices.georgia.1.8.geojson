@@ -1,6 +1,6 @@
    {
    	"type": "FeatureCollection",
-   	"features": [ {
+   	"features": [{
    		"type": "Feature",
    		"geometry": {
    			"type": "Point",
@@ -80,28 +80,7 @@
    			"state": "5"
    		}
 
-   	},  {
 
-   		"type": "Feature",
-   		"geometry": {
-   			"type": "Point",
-   			"coordinates": [-84.17695,
-   				34.15416
-   			]
-
-   		},
-   		"properties": {
-   			"phoneFormatted": "+1 678-948-9400",
-   			"phone": "+16789489400",
-   			"address": "410 Peachtree Pkwy",
-   			"city": "Cumming, GA",
-   			"country": "United States",
-   			"crossStreet": "",
-   			"postalCode": "30041",
-   			"state": "5"
-
-
-   		}
 
 
 
